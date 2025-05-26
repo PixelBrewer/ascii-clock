@@ -13,3 +13,7 @@ python3 main.py
 ## Requirements
 
 - Python 3
+
+## Ideas
+
+One enhancment idea that I have is to color code the AM/PM cycle.
