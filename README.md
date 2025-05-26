@@ -8,7 +8,7 @@ The idea to create a perpetual clock using ascii art in the terminal came from m
 
 ## To run the app simply run the following command in your terminal:
 
-python3 ascii-clock.py
+python3 main.py
 
 ## Requirements
 
